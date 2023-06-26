@@ -1,7 +1,9 @@
 # How to run
 
 `npx ts-node index.ts your_input_file.csv > your_output_file.csv`
+
 `ts-node index.ts your_input_file.csv > your_output_file.csv`
+
 `tsc index.ts && node index.js your_input_file.csv > your_output_file.csv`
 
 # How to run tests
