@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "test": "ts-node tests.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^20.3.1"
+  }
+}
